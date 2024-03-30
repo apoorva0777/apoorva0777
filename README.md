@@ -1,4 +1,4 @@
-![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif)
 <h1 align="center">Hi 👋, I'm Apoorva Shukla</h1>
 <h3 align="center">Passionate B.Tech CSE Student Delving into Full Stack Development</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
