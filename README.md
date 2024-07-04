@@ -1,4 +1,3 @@
-![Apoorva logo](https://github.com/apoorva0777/apoorva0777/assets/118666954/949c4255-719b-4202-aed8-86d06c352461)
 <h1 align="center">Hi 👋, I'm Apoorva Shukla</h1>
 <h3 align="center">B.Tech CSE Student Delving into Full Stack Development</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
