@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva0777&theme=dark" alt="apoorva0777" /></p>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={apoorvashukla744}&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={apoorvashukla744}&theme={black}" alt="LeetCode Badges"/>
