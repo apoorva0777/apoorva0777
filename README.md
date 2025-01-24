@@ -15,14 +15,13 @@
 
 
 
-
+![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=apoorvashukla744&theme=black&animated=true)
+![Leetcode Heatmap](https://leetcard.jacoblin.cool/apoorvashukla744?)
 
 <div align="center"> 
   <h2 align="center">Leetcode Info<h2>  
   <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorva0777&show_icons=true&locale=en&layout=compact" alt="apoorva0777" /></p>
-![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=apoorvashukla744&theme=black&animated=true)
-![Leetcode Heatmap](https://leetcard.jacoblin.cool/apoorvashukla744?)
   </p>
   <p align="center">
     <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Nunito&ext=heatmap" />  
