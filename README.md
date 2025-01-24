@@ -78,7 +78,7 @@
 
 ### 🏆 **LeetCode Stats:**
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=apoorvashukla744&theme=dark&animated=true" alt="LeetCode Badge" />
   <img src="https://leetcard.jacoblin.cool/apoorvashukla744?theme=dark" alt="LeetCode Heatmap" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=apoorvashukla744&theme=dark&animated=true" alt="LeetCode Badge" />
 </p>
 
